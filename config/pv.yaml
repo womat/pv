@@ -11,7 +11,7 @@ debug:
   #       standard (default) >> Warning | Info | Error | Fatal
   #       trace              >> Warning | Info | Error | Fatal | Debug | Trace
   #       debug              >> Warning | Info | Error | Fatal | Debug
-  flag: stamdard
+  flag: standard
 
 # webserver configuration
 webserver:
